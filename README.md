@@ -7,7 +7,7 @@ Flutter assessment to code the given UI designs.
 - [Screens](#screens)
 
 ## Getting Started
-### Usage for Frontend (Local environment)
+### Usage for Frontend 
 In this project, the source codes can be found under `/lib`
 
 No data inputs are required, as the codes are purely for UI purposes. 
