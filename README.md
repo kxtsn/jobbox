@@ -4,7 +4,7 @@ Flutter assessment to code the given UI designs.
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Features](#features)
+- [Screens](#screens)
 
 ## Getting Started
 ### Usage for Frontend (Local environment)
