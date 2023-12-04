@@ -26,7 +26,7 @@ Follow these steps to set up and run the project on your local machine. Do follo
      
 ## Screens
 **Login**
-![Login](https://github.com/kxtsn/jobbox/screenshots/1.png)
+(https://github.com/kxtsn/jobbox/screenshots/1.png)
 
 **Sign Up**
 ![Sign Up](https://github.com/kxtsn/jobbox/screenshots/2.png)
