@@ -13,7 +13,7 @@ In this project, the source codes can be found under `/lib`
 No data inputs are required, as the codes are purely for UI purposes. 
 
 ### Project Set Up
-Follow these steps to set up and run the project on your local machine. Do follow the above usage for backend and frontend to ensure that they are linking to local instead of server database.
+Follow these steps to set up and run the project on your local machine.
 
 1. **Clone the project**:
    `git clone https://github.com/kxtsn/jobbox.git`
