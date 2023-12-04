@@ -29,28 +29,28 @@ Follow these steps to set up and run the project on your local machine. Do follo
 (https://github.com/kxtsn/jobbox/screenshots/1.png)
 
 **Sign Up**
-![Sign Up](https://github.com/kxtsn/jobbox/screenshots/2.png)
+(https://github.com/kxtsn/jobbox/screenshots/2.png)
 
 **Listing**
-![Listing](https://github.com/kxtsn/jobbox/screenshots/3.png)
+(https://github.com/kxtsn/jobbox/screenshots/3.png)
 
 **Details**
-![Details](https://github.com/kxtsn/jobbox/screenshots/4.png)
+(https://github.com/kxtsn/jobbox/screenshots/4.png)
 
 **Apply**
-![Apply](https://github.com/kxtsn/jobbox/screenshots/5.png)
+(https://github.com/kxtsn/jobbox/screenshots/5.png)
 
 **Employment Details**
-![Employment Details](https://github.com/kxtsn/jobbox/screenshots/6.png)
+(https://github.com/kxtsn/jobbox/screenshots/6.png)
 
 **Review**
-![Review](https://github.com/kxtsn/jobbox/screenshots/7.png)
+(https://github.com/kxtsn/jobbox/screenshots/7.png)
 
 **Applied Jobs**
-![Applied](https://github.com/kxtsn/jobbox/screenshots/8.png)
+(https://github.com/kxtsn/jobbox/screenshots/8.png)
 
 **Profile**
-![Profile](https://github.com/kxtsn/jobbox/screenshots/9.png)
+(https://github.com/kxtsn/jobbox/screenshots/9.png)
 
 
   
